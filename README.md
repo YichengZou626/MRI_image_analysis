@@ -1,1 +1,1 @@
-# MRI_image_analysis
+# Enhanced blurred gray–white matter junction map for 3D MRI analysis
