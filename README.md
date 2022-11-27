@@ -1,2 +1,5 @@
 # Enhanced blurred gray–white matter junction map for 3D MRI analysis
 I am responsible for constructing an algorithm for MR image analysis to detect cortical focal dysplasia in epileptic children. Based on a published reference paper (more information in "Enhanced visualization of blurred gray–white matter junctions in focal cortical dysplasia by voxel-based 3D MRI analysis"), diagnosis is time-consuming and difficult, and conventional MRI can be unrevealing in a high percentage of patients, especially children. Therefore, in order to facilitate lesion detection, the idea is to recognize cortical dysplasia by comparison with a healthy control group for better visualization of children’s MRI images. This task involves image normalization, intensity correction, tissue segmentation, image binarization, and image convolution. This algorithm is used to identify brain areas with blurred gray-white matter boundaries, characteristic of cortical focal dysplasia.
+
+
+<img width="508" alt="Screen Shot 2022-11-26 at 10 14 47 PM" src="https://user-images.githubusercontent.com/59714064/204117576-b9853656-be91-4981-a310-3063d1401a4f.png">
